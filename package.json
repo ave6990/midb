@@ -1,0 +1,29 @@
+{
+  "name": "midb",
+  "version": "0.0.0",
+  "description": "Mesurements Instruments data base for a metrology support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ave6990/midb.git"
+  },
+  "keywords": [
+    "db",
+    "mi",
+    "metrology"
+  ],
+  "author": "Aleksandr Ermolaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ave6990/midb/issues"
+  },
+  "homepage": "https://github.com/ave6990/midb#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "type": "module"
+}
